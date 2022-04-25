@@ -6,7 +6,10 @@
   "author": "Greymass Inc.",
   "license": "MIT",
   "dependencies": {
-    "eosio-signing-request": "^1.0.0",
+    "anchor-link": "^3.4.0",
+    "anchor-link-console-transport": "^1.0.0",
+    "eosjs": "^22.1.0",
+    "eosjs-ecc": "^4.0.7",
     "node-fetch": "^2.6.0"
   }
 }
